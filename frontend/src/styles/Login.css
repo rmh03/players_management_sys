@@ -1,0 +1,19 @@
+.login-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  select {
+    width: 200px;
+    padding: 8px;
+    margin: 10px;
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  

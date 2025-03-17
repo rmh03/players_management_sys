@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Rmharish2006",
+    "database": "PlayerManagementDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
